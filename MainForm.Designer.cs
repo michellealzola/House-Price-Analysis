@@ -35,9 +35,9 @@
             this.radioBedroom34 = new System.Windows.Forms.RadioButton();
             this.radioBedroom12 = new System.Windows.Forms.RadioButton();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.radioButton4 = new System.Windows.Forms.RadioButton();
-            this.radioButton5 = new System.Windows.Forms.RadioButton();
-            this.radioButton6 = new System.Windows.Forms.RadioButton();
+            this.radioBathroom5 = new System.Windows.Forms.RadioButton();
+            this.radioBathroom34 = new System.Windows.Forms.RadioButton();
+            this.radioBathroom12 = new System.Windows.Forms.RadioButton();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.radioButton10 = new System.Windows.Forms.RadioButton();
             this.radioButton7 = new System.Windows.Forms.RadioButton();
@@ -117,9 +117,9 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.radioButton4);
-            this.groupBox2.Controls.Add(this.radioButton5);
-            this.groupBox2.Controls.Add(this.radioButton6);
+            this.groupBox2.Controls.Add(this.radioBathroom5);
+            this.groupBox2.Controls.Add(this.radioBathroom34);
+            this.groupBox2.Controls.Add(this.radioBathroom12);
             this.groupBox2.Font = new System.Drawing.Font("Arsenal", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.Location = new System.Drawing.Point(226, 220);
             this.groupBox2.Name = "groupBox2";
@@ -128,38 +128,38 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Bathrooms";
             // 
-            // radioButton4
+            // radioBathroom5
             // 
-            this.radioButton4.AutoSize = true;
-            this.radioButton4.Location = new System.Drawing.Point(19, 112);
-            this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(47, 30);
-            this.radioButton4.TabIndex = 5;
-            this.radioButton4.TabStop = true;
-            this.radioButton4.Text = "5+";
-            this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioBathroom5.AutoSize = true;
+            this.radioBathroom5.Location = new System.Drawing.Point(19, 112);
+            this.radioBathroom5.Name = "radioBathroom5";
+            this.radioBathroom5.Size = new System.Drawing.Size(47, 30);
+            this.radioBathroom5.TabIndex = 5;
+            this.radioBathroom5.TabStop = true;
+            this.radioBathroom5.Text = "5+";
+            this.radioBathroom5.UseVisualStyleBackColor = true;
             // 
-            // radioButton5
+            // radioBathroom34
             // 
-            this.radioButton5.AutoSize = true;
-            this.radioButton5.Location = new System.Drawing.Point(19, 76);
-            this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(62, 30);
-            this.radioButton5.TabIndex = 4;
-            this.radioButton5.TabStop = true;
-            this.radioButton5.Text = "3 - 4";
-            this.radioButton5.UseVisualStyleBackColor = true;
+            this.radioBathroom34.AutoSize = true;
+            this.radioBathroom34.Location = new System.Drawing.Point(19, 76);
+            this.radioBathroom34.Name = "radioBathroom34";
+            this.radioBathroom34.Size = new System.Drawing.Size(62, 30);
+            this.radioBathroom34.TabIndex = 4;
+            this.radioBathroom34.TabStop = true;
+            this.radioBathroom34.Text = "3 - 4";
+            this.radioBathroom34.UseVisualStyleBackColor = true;
             // 
-            // radioButton6
+            // radioBathroom12
             // 
-            this.radioButton6.AutoSize = true;
-            this.radioButton6.Location = new System.Drawing.Point(19, 40);
-            this.radioButton6.Name = "radioButton6";
-            this.radioButton6.Size = new System.Drawing.Size(60, 30);
-            this.radioButton6.TabIndex = 3;
-            this.radioButton6.TabStop = true;
-            this.radioButton6.Text = "1 - 2";
-            this.radioButton6.UseVisualStyleBackColor = true;
+            this.radioBathroom12.AutoSize = true;
+            this.radioBathroom12.Location = new System.Drawing.Point(19, 40);
+            this.radioBathroom12.Name = "radioBathroom12";
+            this.radioBathroom12.Size = new System.Drawing.Size(60, 30);
+            this.radioBathroom12.TabIndex = 3;
+            this.radioBathroom12.TabStop = true;
+            this.radioBathroom12.Text = "1 - 2";
+            this.radioBathroom12.UseVisualStyleBackColor = true;
             // 
             // groupBox3
             // 
@@ -264,9 +264,9 @@
         private System.Windows.Forms.RadioButton radioBedroom5;
         private System.Windows.Forms.RadioButton radioBedroom34;
         private System.Windows.Forms.RadioButton radioBedroom12;
-        private System.Windows.Forms.RadioButton radioButton4;
-        private System.Windows.Forms.RadioButton radioButton5;
-        private System.Windows.Forms.RadioButton radioButton6;
+        private System.Windows.Forms.RadioButton radioBathroom5;
+        private System.Windows.Forms.RadioButton radioBathroom34;
+        private System.Windows.Forms.RadioButton radioBathroom12;
         private System.Windows.Forms.RadioButton radioButton10;
         private System.Windows.Forms.RadioButton radioButton7;
         private System.Windows.Forms.RadioButton radioButton8;
